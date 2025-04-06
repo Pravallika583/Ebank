@@ -1,4 +1,4 @@
-The goal of this coding exam is to quickly get you off the ground with **Authentication**.
+
 
 ### Refer to the image below:
 
@@ -172,4 +172,4 @@ Returns a response based on the credentials provided
 
 > ### _Things to Keep in Mind_
 >
-> - All components you implement should go in the `src/components` directory
+> - All components you implemented under `src/components` directory
