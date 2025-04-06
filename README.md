@@ -42,10 +42,8 @@
 ### Completion Instructions
 
 <details>
-<summary>Functionality to be added</summary>
+<summary>Functionality added</summary>
 <br/>
-
-The app must have the following functionalities
 
 - **Login Route**
 
@@ -114,11 +112,11 @@ Returns a response based on the credentials provided
 
 <br/>
 
-**The following instructions are required for the tests to pass**
+**Routes**
 
 - Home Route should consist of `/` in the URL path
 - Login Route should consist of `/ebank/login` in the URL path
-- No need to use the `BrowserRouter` in `App.js` as we have already included in `index.js`
+- other invalid Routes - Not Found Page
 
 - User credentials
 
@@ -172,4 +170,4 @@ Returns a response based on the credentials provided
 
 > ### _Things to Keep in Mind_
 >
-> - All components you implemented under `src/components` directory
+> - All components are implemented under `src/components` directory
