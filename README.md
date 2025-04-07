@@ -2,7 +2,7 @@
 
 ### Refer to the url below:
 
-https://userebankauth.ccbp.tech/ebank/login
+https://userebankauth.ccbp.tech
 
 ### Design Files
 
